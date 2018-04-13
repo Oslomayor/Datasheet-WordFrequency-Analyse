@@ -1,5 +1,5 @@
 # 6:39PM, Apr 3th, 2018 @ HDU_Wireless
-# 爬取 TI 公司的芯片手册，统计高频词汇
+# 爬取 TI 公司的芯片手册，统计高频词汇，储存为 Excel 表格
 # URL  (TPS5430)
 # http://www.ti.com/product/TPS5430/datasheet
 
